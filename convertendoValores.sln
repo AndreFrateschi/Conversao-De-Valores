@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "convertendoValores", "convertendoValores\convertendoValores.csproj", "{4297C964-57ED-4B1C-8E9D-1A2D76A915FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4297C964-57ED-4B1C-8E9D-1A2D76A915FF}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{4297C964-57ED-4B1C-8E9D-1A2D76A915FF}.Debug|anycpu.Build.0 = Debug|anycpu
+		{4297C964-57ED-4B1C-8E9D-1A2D76A915FF}.Release|anycpu.ActiveCfg = Release|anycpu
+		{4297C964-57ED-4B1C-8E9D-1A2D76A915FF}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
